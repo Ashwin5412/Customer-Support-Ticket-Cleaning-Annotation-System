@@ -1,0 +1,501 @@
+ticket_id,message,expected_category
+1,How to update my profile,General Query
+2,Website not loading,Technical Issue
+3,Login failed multiple times,Login Issue
+4,Package not delivered yet,Delivery Issue
+5,Have a question regarding services,General Query
+6,Money deducted but order not placed,Payment Issue
+7,Shipment still pending,Delivery Issue
+8,Card payment not successful,Payment Issue
+9,Order arrived late,Delivery Issue
+10,Password not working,Login Issue
+11,Delivery status not updated,Delivery Issue
+12,Please help me with my request,General Query
+13,I need information about my account,General Query
+14,Package not delivered yet,Delivery Issue
+15,Error occurred while submitting form,Technical Issue
+16,I need information about my account,General Query
+17,Billing problem in my account,Payment Issue
+18,Package not delivered yet,Delivery Issue
+19,Need support from customer care,General Query
+20,Money deducted but order not placed,Payment Issue
+21,Login failed multiple times,Login Issue
+22,Money deducted but order not placed,Payment Issue
+23,Have a question regarding services,General Query
+24,Need refund for failed transaction,Payment Issue
+25,Billing problem in my account,Payment Issue
+26,Money deducted but order not placed,Payment Issue
+27,Website not loading,Technical Issue
+28,Have a question regarding services,General Query
+29,Bug in mobile application,Technical Issue
+30,I cannot login to my account,Login Issue
+31,Package not delivered yet,Delivery Issue
+32,Please help me with my request,General Query
+33,App crashes when I open it,Technical Issue
+34,Please help me with my request,General Query
+35,Error occurred while submitting form,Technical Issue
+36,Delivery status not updated,Delivery Issue
+37,Package not delivered yet,Delivery Issue
+38,Money deducted but order not placed,Payment Issue
+39,Password not working,Login Issue
+40,Bug in mobile application,Technical Issue
+41,Unable to access my account,Login Issue
+42,Please help me with my request,General Query
+43,I need information about my account,General Query
+44,Billing problem in my account,Payment Issue
+45,Card payment not successful,Payment Issue
+46,Order arrived late,Delivery Issue
+47,Please help me with my request,General Query
+48,Payment failed during checkout,Payment Issue
+49,Need support from customer care,General Query
+50,My order is delayed,Delivery Issue
+51,Payment failed during checkout,Payment Issue
+52,Login failed multiple times,Login Issue
+53,Unable to access my account,Login Issue
+54,Please help me with my request,General Query
+55,Shipment still pending,Delivery Issue
+56,Account locked after login attempt,Login Issue
+57,Payment failed during checkout,Payment Issue
+58,Shipment still pending,Delivery Issue
+59,Error occurred while submitting form,Technical Issue
+60,Money deducted but order not placed,Payment Issue
+61,Login failed multiple times,Login Issue
+62,Delivery status not updated,Delivery Issue
+63,Login failed multiple times,Login Issue
+64,Payment failed during checkout,Payment Issue
+65,Bug in mobile application,Technical Issue
+66,Login failed multiple times,Login Issue
+67,Payment failed during checkout,Payment Issue
+68,Password not working,Login Issue
+69,I need information about my account,General Query
+70,Error occurred while submitting form,Technical Issue
+71,Error occurred while submitting form,Technical Issue
+72,My order is delayed,Delivery Issue
+73,Package not delivered yet,Delivery Issue
+74,How to update my profile,General Query
+75,Payment failed during checkout,Payment Issue
+76,Need support from customer care,General Query
+77,Error occurred while submitting form,Technical Issue
+78,Payment failed during checkout,Payment Issue
+79,How to update my profile,General Query
+80,Password not working,Login Issue
+81,Payment failed during checkout,Payment Issue
+82,Unable to access my account,Login Issue
+83,Billing problem in my account,Payment Issue
+84,Shipment still pending,Delivery Issue
+85,I cannot login to my account,Login Issue
+86,Have a question regarding services,General Query
+87,Card payment not successful,Payment Issue
+88,Delivery status not updated,Delivery Issue
+89,Password not working,Login Issue
+90,Need refund for failed transaction,Payment Issue
+91,Need refund for failed transaction,Payment Issue
+92,Card payment not successful,Payment Issue
+93,Error occurred while submitting form,Technical Issue
+94,System keeps freezing,Technical Issue
+95,Payment failed during checkout,Payment Issue
+96,Error occurred while submitting form,Technical Issue
+97,Order arrived late,Delivery Issue
+98,I cannot login to my account,Login Issue
+99,My order is delayed,Delivery Issue
+100,Need support from customer care,General Query
+101,Payment failed during checkout,Payment Issue
+102,Need support from customer care,General Query
+103,App crashes when I open it,Technical Issue
+104,Please help me with my request,General Query
+105,Shipment still pending,Delivery Issue
+106,I cannot login to my account,Login Issue
+107,App crashes when I open it,Technical Issue
+108,Billing problem in my account,Payment Issue
+109,App crashes when I open it,Technical Issue
+110,I need information about my account,General Query
+111,Account locked after login attempt,Login Issue
+112,Error occurred while submitting form,Technical Issue
+113,Password not working,Login Issue
+114,How to update my profile,General Query
+115,Shipment still pending,Delivery Issue
+116,Please help me with my request,General Query
+117,Error occurred while submitting form,Technical Issue
+118,My order is delayed,Delivery Issue
+119,I cannot login to my account,Login Issue
+120,Need support from customer care,General Query
+121,Payment failed during checkout,Payment Issue
+122,Package not delivered yet,Delivery Issue
+123,Payment failed during checkout,Payment Issue
+124,Login failed multiple times,Login Issue
+125,App crashes when I open it,Technical Issue
+126,My order is delayed,Delivery Issue
+127,Login failed multiple times,Login Issue
+128,Delivery status not updated,Delivery Issue
+129,Please help me with my request,General Query
+130,Password not working,Login Issue
+131,Package not delivered yet,Delivery Issue
+132,Billing problem in my account,Payment Issue
+133,Order arrived late,Delivery Issue
+134,Have a question regarding services,General Query
+135,My order is delayed,Delivery Issue
+136,Please help me with my request,General Query
+137,Card payment not successful,Payment Issue
+138,Need support from customer care,General Query
+139,Shipment still pending,Delivery Issue
+140,Order arrived late,Delivery Issue
+141,Website not loading,Technical Issue
+142,Login failed multiple times,Login Issue
+143,Password not working,Login Issue
+144,Website not loading,Technical Issue
+145,Website not loading,Technical Issue
+146,Website not loading,Technical Issue
+147,I cannot login to my account,Login Issue
+148,Need refund for failed transaction,Payment Issue
+149,Money deducted but order not placed,Payment Issue
+150,Bug in mobile application,Technical Issue
+151,Card payment not successful,Payment Issue
+152,Delivery status not updated,Delivery Issue
+153,Order arrived late,Delivery Issue
+154,Please help me with my request,General Query
+155,I need information about my account,General Query
+156,Payment failed during checkout,Payment Issue
+157,Delivery status not updated,Delivery Issue
+158,Payment failed during checkout,Payment Issue
+159,Delivery status not updated,Delivery Issue
+160,App crashes when I open it,Technical Issue
+161,Need support from customer care,General Query
+162,Unable to access my account,Login Issue
+163,Have a question regarding services,General Query
+164,I need information about my account,General Query
+165,Please help me with my request,General Query
+166,How to update my profile,General Query
+167,System keeps freezing,Technical Issue
+168,Money deducted but order not placed,Payment Issue
+169,Unable to access my account,Login Issue
+170,Need refund for failed transaction,Payment Issue
+171,How to update my profile,General Query
+172,Shipment still pending,Delivery Issue
+173,Bug in mobile application,Technical Issue
+174,Have a question regarding services,General Query
+175,I cannot login to my account,Login Issue
+176,App crashes when I open it,Technical Issue
+177,System keeps freezing,Technical Issue
+178,Unable to access my account,Login Issue
+179,Have a question regarding services,General Query
+180,Please help me with my request,General Query
+181,Error occurred while submitting form,Technical Issue
+182,Login failed multiple times,Login Issue
+183,Have a question regarding services,General Query
+184,Order arrived late,Delivery Issue
+185,Account locked after login attempt,Login Issue
+186,Card payment not successful,Payment Issue
+187,Need refund for failed transaction,Payment Issue
+188,Delivery status not updated,Delivery Issue
+189,Need refund for failed transaction,Payment Issue
+190,Password not working,Login Issue
+191,Bug in mobile application,Technical Issue
+192,Billing problem in my account,Payment Issue
+193,Bug in mobile application,Technical Issue
+194,My order is delayed,Delivery Issue
+195,Error occurred while submitting form,Technical Issue
+196,Order arrived late,Delivery Issue
+197,Need refund for failed transaction,Payment Issue
+198,Have a question regarding services,General Query
+199,Please help me with my request,General Query
+200,Money deducted but order not placed,Payment Issue
+201,Billing problem in my account,Payment Issue
+202,Need support from customer care,General Query
+203,Error occurred while submitting form,Technical Issue
+204,My order is delayed,Delivery Issue
+205,Delivery status not updated,Delivery Issue
+206,My order is delayed,Delivery Issue
+207,Error occurred while submitting form,Technical Issue
+208,Error occurred while submitting form,Technical Issue
+209,Website not loading,Technical Issue
+210,Billing problem in my account,Payment Issue
+211,Need refund for failed transaction,Payment Issue
+212,Login failed multiple times,Login Issue
+213,Unable to access my account,Login Issue
+214,App crashes when I open it,Technical Issue
+215,Order arrived late,Delivery Issue
+216,Error occurred while submitting form,Technical Issue
+217,Delivery status not updated,Delivery Issue
+218,App crashes when I open it,Technical Issue
+219,I need information about my account,General Query
+220,Package not delivered yet,Delivery Issue
+221,Login failed multiple times,Login Issue
+222,Need refund for failed transaction,Payment Issue
+223,Login failed multiple times,Login Issue
+224,Account locked after login attempt,Login Issue
+225,Delivery status not updated,Delivery Issue
+226,Package not delivered yet,Delivery Issue
+227,App crashes when I open it,Technical Issue
+228,Payment failed during checkout,Payment Issue
+229,Need support from customer care,General Query
+230,Unable to access my account,Login Issue
+231,System keeps freezing,Technical Issue
+232,Order arrived late,Delivery Issue
+233,Error occurred while submitting form,Technical Issue
+234,Order arrived late,Delivery Issue
+235,Delivery status not updated,Delivery Issue
+236,Password not working,Login Issue
+237,Need refund for failed transaction,Payment Issue
+238,Login failed multiple times,Login Issue
+239,Please help me with my request,General Query
+240,Card payment not successful,Payment Issue
+241,Website not loading,Technical Issue
+242,Password not working,Login Issue
+243,Please help me with my request,General Query
+244,Billing problem in my account,Payment Issue
+245,Need support from customer care,General Query
+246,Billing problem in my account,Payment Issue
+247,Please help me with my request,General Query
+248,Bug in mobile application,Technical Issue
+249,I cannot login to my account,Login Issue
+250,Bug in mobile application,Technical Issue
+251,Login failed multiple times,Login Issue
+252,My order is delayed,Delivery Issue
+253,Have a question regarding services,General Query
+254,Shipment still pending,Delivery Issue
+255,Error occurred while submitting form,Technical Issue
+256,How to update my profile,General Query
+257,I cannot login to my account,Login Issue
+258,Package not delivered yet,Delivery Issue
+259,Need refund for failed transaction,Payment Issue
+260,I cannot login to my account,Login Issue
+261,Login failed multiple times,Login Issue
+262,Please help me with my request,General Query
+263,Package not delivered yet,Delivery Issue
+264,Shipment still pending,Delivery Issue
+265,Password not working,Login Issue
+266,How to update my profile,General Query
+267,Login failed multiple times,Login Issue
+268,Shipment still pending,Delivery Issue
+269,Please help me with my request,General Query
+270,Need refund for failed transaction,Payment Issue
+271,Delivery status not updated,Delivery Issue
+272,Error occurred while submitting form,Technical Issue
+273,Please help me with my request,General Query
+274,System keeps freezing,Technical Issue
+275,How to update my profile,General Query
+276,Money deducted but order not placed,Payment Issue
+277,Order arrived late,Delivery Issue
+278,Website not loading,Technical Issue
+279,Account locked after login attempt,Login Issue
+280,Website not loading,Technical Issue
+281,Payment failed during checkout,Payment Issue
+282,Error occurred while submitting form,Technical Issue
+283,Login failed multiple times,Login Issue
+284,Please help me with my request,General Query
+285,Have a question regarding services,General Query
+286,App crashes when I open it,Technical Issue
+287,Order arrived late,Delivery Issue
+288,Delivery status not updated,Delivery Issue
+289,Need refund for failed transaction,Payment Issue
+290,Package not delivered yet,Delivery Issue
+291,Need support from customer care,General Query
+292,Bug in mobile application,Technical Issue
+293,Login failed multiple times,Login Issue
+294,Need support from customer care,General Query
+295,Error occurred while submitting form,Technical Issue
+296,System keeps freezing,Technical Issue
+297,Payment failed during checkout,Payment Issue
+298,Need refund for failed transaction,Payment Issue
+299,Package not delivered yet,Delivery Issue
+300,Error occurred while submitting form,Technical Issue
+301,System keeps freezing,Technical Issue
+302,Delivery status not updated,Delivery Issue
+303,Money deducted but order not placed,Payment Issue
+304,Please help me with my request,General Query
+305,How to update my profile,General Query
+306,Unable to access my account,Login Issue
+307,Unable to access my account,Login Issue
+308,Delivery status not updated,Delivery Issue
+309,Order arrived late,Delivery Issue
+310,Need support from customer care,General Query
+311,I need information about my account,General Query
+312,App crashes when I open it,Technical Issue
+313,Package not delivered yet,Delivery Issue
+314,Money deducted but order not placed,Payment Issue
+315,System keeps freezing,Technical Issue
+316,How to update my profile,General Query
+317,Password not working,Login Issue
+318,My order is delayed,Delivery Issue
+319,My order is delayed,Delivery Issue
+320,Shipment still pending,Delivery Issue
+321,Error occurred while submitting form,Technical Issue
+322,Error occurred while submitting form,Technical Issue
+323,Bug in mobile application,Technical Issue
+324,Unable to access my account,Login Issue
+325,Delivery status not updated,Delivery Issue
+326,Package not delivered yet,Delivery Issue
+327,Delivery status not updated,Delivery Issue
+328,Money deducted but order not placed,Payment Issue
+329,Password not working,Login Issue
+330,Unable to access my account,Login Issue
+331,System keeps freezing,Technical Issue
+332,Payment failed during checkout,Payment Issue
+333,Delivery status not updated,Delivery Issue
+334,Billing problem in my account,Payment Issue
+335,Password not working,Login Issue
+336,Need refund for failed transaction,Payment Issue
+337,Password not working,Login Issue
+338,App crashes when I open it,Technical Issue
+339,Order arrived late,Delivery Issue
+340,App crashes when I open it,Technical Issue
+341,Please help me with my request,General Query
+342,How to update my profile,General Query
+343,Order arrived late,Delivery Issue
+344,Billing problem in my account,Payment Issue
+345,I need information about my account,General Query
+346,Delivery status not updated,Delivery Issue
+347,System keeps freezing,Technical Issue
+348,Delivery status not updated,Delivery Issue
+349,How to update my profile,General Query
+350,Order arrived late,Delivery Issue
+351,Payment failed during checkout,Payment Issue
+352,Card payment not successful,Payment Issue
+353,Have a question regarding services,General Query
+354,Need support from customer care,General Query
+355,Password not working,Login Issue
+356,Shipment still pending,Delivery Issue
+357,Payment failed during checkout,Payment Issue
+358,How to update my profile,General Query
+359,Delivery status not updated,Delivery Issue
+360,Billing problem in my account,Payment Issue
+361,Need support from customer care,General Query
+362,Account locked after login attempt,Login Issue
+363,Money deducted but order not placed,Payment Issue
+364,Payment failed during checkout,Payment Issue
+365,Have a question regarding services,General Query
+366,Account locked after login attempt,Login Issue
+367,App crashes when I open it,Technical Issue
+368,Billing problem in my account,Payment Issue
+369,Shipment still pending,Delivery Issue
+370,Need support from customer care,General Query
+371,Billing problem in my account,Payment Issue
+372,How to update my profile,General Query
+373,I cannot login to my account,Login Issue
+374,Please help me with my request,General Query
+375,Need refund for failed transaction,Payment Issue
+376,Bug in mobile application,Technical Issue
+377,App crashes when I open it,Technical Issue
+378,Billing problem in my account,Payment Issue
+379,Error occurred while submitting form,Technical Issue
+380,Delivery status not updated,Delivery Issue
+381,Bug in mobile application,Technical Issue
+382,Order arrived late,Delivery Issue
+383,Error occurred while submitting form,Technical Issue
+384,Need support from customer care,General Query
+385,Password not working,Login Issue
+386,Money deducted but order not placed,Payment Issue
+387,Billing problem in my account,Payment Issue
+388,Password not working,Login Issue
+389,Need refund for failed transaction,Payment Issue
+390,Password not working,Login Issue
+391,App crashes when I open it,Technical Issue
+392,Error occurred while submitting form,Technical Issue
+393,Shipment still pending,Delivery Issue
+394,How to update my profile,General Query
+395,App crashes when I open it,Technical Issue
+396,Need support from customer care,General Query
+397,Unable to access my account,Login Issue
+398,I cannot login to my account,Login Issue
+399,Website not loading,Technical Issue
+400,Login failed multiple times,Login Issue
+401,Please help me with my request,General Query
+402,Login failed multiple times,Login Issue
+403,Payment failed during checkout,Payment Issue
+404,Shipment still pending,Delivery Issue
+405,How to update my profile,General Query
+406,Payment failed during checkout,Payment Issue
+407,Shipment still pending,Delivery Issue
+408,System keeps freezing,Technical Issue
+409,Billing problem in my account,Payment Issue
+410,Order arrived late,Delivery Issue
+411,System keeps freezing,Technical Issue
+412,My order is delayed,Delivery Issue
+413,Card payment not successful,Payment Issue
+414,System keeps freezing,Technical Issue
+415,Password not working,Login Issue
+416,Bug in mobile application,Technical Issue
+417,My order is delayed,Delivery Issue
+418,Have a question regarding services,General Query
+419,Shipment still pending,Delivery Issue
+420,My order is delayed,Delivery Issue
+421,Have a question regarding services,General Query
+422,Delivery status not updated,Delivery Issue
+423,Billing problem in my account,Payment Issue
+424,Account locked after login attempt,Login Issue
+425,How to update my profile,General Query
+426,Bug in mobile application,Technical Issue
+427,How to update my profile,General Query
+428,Bug in mobile application,Technical Issue
+429,Please help me with my request,General Query
+430,App crashes when I open it,Technical Issue
+431,Unable to access my account,Login Issue
+432,System keeps freezing,Technical Issue
+433,Need refund for failed transaction,Payment Issue
+434,Login failed multiple times,Login Issue
+435,Shipment still pending,Delivery Issue
+436,My order is delayed,Delivery Issue
+437,Error occurred while submitting form,Technical Issue
+438,Account locked after login attempt,Login Issue
+439,Error occurred while submitting form,Technical Issue
+440,Payment failed during checkout,Payment Issue
+441,Money deducted but order not placed,Payment Issue
+442,Error occurred while submitting form,Technical Issue
+443,Payment failed during checkout,Payment Issue
+444,Order arrived late,Delivery Issue
+445,Error occurred while submitting form,Technical Issue
+446,Money deducted but order not placed,Payment Issue
+447,Delivery status not updated,Delivery Issue
+448,Please help me with my request,General Query
+449,Card payment not successful,Payment Issue
+450,My order is delayed,Delivery Issue
+451,Need refund for failed transaction,Payment Issue
+452,I cannot login to my account,Login Issue
+453,Unable to access my account,Login Issue
+454,Please help me with my request,General Query
+455,Payment failed during checkout,Payment Issue
+456,Package not delivered yet,Delivery Issue
+457,Password not working,Login Issue
+458,Website not loading,Technical Issue
+459,Billing problem in my account,Payment Issue
+460,Delivery status not updated,Delivery Issue
+461,Card payment not successful,Payment Issue
+462,Order arrived late,Delivery Issue
+463,Please help me with my request,General Query
+464,Shipment still pending,Delivery Issue
+465,Order arrived late,Delivery Issue
+466,Package not delivered yet,Delivery Issue
+467,System keeps freezing,Technical Issue
+468,Order arrived late,Delivery Issue
+469,I cannot login to my account,Login Issue
+470,Please help me with my request,General Query
+471,How to update my profile,General Query
+472,Website not loading,Technical Issue
+473,Please help me with my request,General Query
+474,Website not loading,Technical Issue
+475,Website not loading,Technical Issue
+476,Need support from customer care,General Query
+477,Login failed multiple times,Login Issue
+478,Package not delivered yet,Delivery Issue
+479,App crashes when I open it,Technical Issue
+480,Order arrived late,Delivery Issue
+481,Have a question regarding services,General Query
+482,Error occurred while submitting form,Technical Issue
+483,Card payment not successful,Payment Issue
+484,Need refund for failed transaction,Payment Issue
+485,My order is delayed,Delivery Issue
+486,How to update my profile,General Query
+487,App crashes when I open it,Technical Issue
+488,Login failed multiple times,Login Issue
+489,Need refund for failed transaction,Payment Issue
+490,Have a question regarding services,General Query
+491,Order arrived late,Delivery Issue
+492,Money deducted but order not placed,Payment Issue
+493,Have a question regarding services,General Query
+494,Need refund for failed transaction,Payment Issue
+495,Bug in mobile application,Technical Issue
+496,System keeps freezing,Technical Issue
+497,Website not loading,Technical Issue
+498,How to update my profile,General Query
+499,Order arrived late,Delivery Issue
+500,Package not delivered yet,Delivery Issue
